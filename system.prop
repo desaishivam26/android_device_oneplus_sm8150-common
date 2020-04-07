@@ -104,3 +104,6 @@ config.disable_rtt=true
 # WiFi Display
 persist.debug.wfd.enable=1
 persist.sys.wfd.virtual=0
+
+# Disable mask layer(FOD)
+vendor.display.disable_mask_layer_hint=1
